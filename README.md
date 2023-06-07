@@ -82,6 +82,9 @@ print(classification_report1)
 ```
 
 ## Output:
+
+
+![output](./webout.png  )
 ### data.head()
 ![ML41](https://user-images.githubusercontent.com/118707332/235418739-cc35229d-4f31-46ec-9f4a-805a1a0c4220.png)
 
